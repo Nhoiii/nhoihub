@@ -1,2 +1,0 @@
-# nhoihub
-nhoihub.lua
